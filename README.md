@@ -1,2 +1,5 @@
 # ipv4subnet
-Python programlama dili ile ipv4 subnetting.
+EN
+IPv4 subnetting with Python
+TR
+Python programlama dili ile IPv4 subnetting.
